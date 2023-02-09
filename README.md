@@ -1,2 +1,2 @@
-# homebrew-smartlook-crash-reports-cli
-Homebrew tap for smartlook-crash-reports-cli
+# homebrew-smartlook
+Homebrew tap for smartlook
