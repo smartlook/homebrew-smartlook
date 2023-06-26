@@ -3,8 +3,8 @@ require "language/node"
 class SmartlookCrashReportsCli < Formula
   desc "CLI tool for uploading crash mapping files to the Smartlook"
   homepage "https://www.npmjs.com/package/@smartlook/smartlook-crash-reports-cli"
-  url "https://registry.npmjs.org/@smartlook/smartlook-crash-reports-cli/-/smartlook-crash-reports-cli-2.1.9.tgz"
-  sha256 "de1204246a493d97b2a4587037f969712ea7480194e84cd84fd2396cf25c449a"
+  url "https://registry.npmjs.org/@smartlook/smartlook-crash-reports-cli/-/smartlook-crash-reports-cli-2.1.10.tgz"
+  sha256 "f84af90396991266db5b63c80b52d54e3a4aea714f96e9ba9e4190de0603e571"
   license "MIT"
 
   depends_on "node"
